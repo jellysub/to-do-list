@@ -1,1 +1,1 @@
-# to-do-list
+# A simple vanilla js to-do list
